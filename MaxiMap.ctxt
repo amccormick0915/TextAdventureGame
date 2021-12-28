@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=MaxiMap
+comment1.params=characters
+comment1.target=MaxiMap(int)
+comment2.params=
+comment2.target=java.util.ArrayList\ getMatMap()
+comment3.params=
+comment3.target=void\ generateMR()
+comment4.params=totalRooms\ roomNo
+comment4.target=MapRec\ makeMR(int,\ int)
+comment5.params=
+comment5.target=AttributeItem\ setAttItem()
+comment6.params=
+comment6.target=Armor\ setArm()
+comment7.params=totalRooms\ roomNo
+comment7.target=Monster\ generateMONMON(int,\ int)
+numComments=8

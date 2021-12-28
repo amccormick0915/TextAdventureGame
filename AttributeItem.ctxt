@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AttributeItem
+comment1.params=
+comment1.target=AttributeItem()
+comment2.params=
+comment2.target=double\ getItemPoint()
+comment3.params=
+comment3.target=java.lang.String\ getItemName()
+comment4.params=character
+comment4.target=void\ setUse(Being)
+comment5.params=
+comment5.target=boolean\ getState()
+numComments=6

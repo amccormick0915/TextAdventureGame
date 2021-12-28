@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Human
+comment1.params=
+comment1.target=Human()
+comment2.params=na\ wepno\ at\ def\ hp
+comment2.target=Human(java.lang.String,\ int,\ double,\ double,\ double)
+comment3.params=na\ wepno
+comment3.target=Human(java.lang.String,\ int)
+comment4.params=
+comment4.target=double\ getatt()
+comment5.params=
+comment5.target=double\ getattDISP()
+comment6.params=
+comment6.target=int\ getwep_no()
+comment7.params=weno
+comment7.target=java.lang.String\ getwep_name(int)
+comment8.params=
+comment8.target=java.lang.String\ getwep_name()
+comment9.params=
+comment9.target=java.lang.String[]\ getwep()
+numComments=10

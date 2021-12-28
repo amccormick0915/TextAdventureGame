@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Magical
+comment1.params=
+comment1.target=Magical()
+comment10.params=
+comment10.target=double\ getmana()
+comment11.params=
+comment11.target=java.lang.String[]\ getwep()
+comment2.params=na\ wepno
+comment2.target=Magical(java.lang.String,\ int)
+comment3.params=na\ wepno\ at\ def\ hp\ mag_att\ mana
+comment3.target=Magical(java.lang.String,\ int,\ double,\ double,\ double,\ double,\ double)
+comment4.params=
+comment4.target=double\ getatt()
+comment5.params=
+comment5.target=double\ getattDISP()
+comment6.params=
+comment6.target=int\ getwep_no()
+comment7.params=weno
+comment7.target=java.lang.String\ getwep_name(int)
+comment8.params=
+comment8.target=java.lang.String\ getwep_name()
+comment9.params=
+comment9.target=double\ getmagic_att()
+numComments=12

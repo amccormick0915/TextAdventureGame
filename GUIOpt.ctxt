@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GUIOpt
+comment1.params=
+comment1.target=GUIOpt()
+comment2.params=componente\ contain\ layout\ Constraint\ x\ y\ gwidth\ gheigth\ padx\ pady
+comment2.target=void\ addobjects(java.awt.Component,\ java.awt.Container,\ java.awt.GridBagLayout,\ java.awt.GridBagConstraints,\ int,\ int,\ int,\ int,\ int,\ int)
+comment3.params=gbc\ padx\ pady
+comment3.target=void\ padd(java.awt.GridBagConstraints,\ int,\ int)
+comment4.params=Matrix\ chars\ LM\ RM
+comment4.target=void\ SaveSession(java.util.ArrayList,\ java.util.ArrayList,\ int,\ int)
+comment5.params=
+comment5.target=java.lang.Object[]\ LoadSession()
+numComments=6

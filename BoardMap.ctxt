@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=BoardMap
+comment1.params=map
+comment1.target=BoardMap(java.util.ArrayList)
+comment2.params=
+comment2.target=void\ RoomToPanelsConv()
+comment3.params=mon
+comment3.target=javax.swing.JPanel\ MonsterDetails(Monster)
+comment4.params=
+comment4.target=java.util.ArrayList\ getPanels()
+comment5.params=LevelMove\ RoomMove
+comment5.target=javax.swing.JPanel\ UpdateRoom(int,\ int)
+comment6.params=tempp\ LevelMove\ RoomMove
+comment6.target=void\ setRoomPanel(javax.swing.JPanel,\ int,\ int)
+comment7.params=LevelMove\ RoomMove
+comment7.target=MapRec\ mapMoving(int,\ int)
+numComments=8

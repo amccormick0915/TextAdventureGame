@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Item
+comment1.params=
+comment1.target=double\ getItemPoint()
+comment2.params=
+comment2.target=java.lang.String\ getItemName()
+comment3.params=character
+comment3.target=void\ setUse(Being)
+numComments=4
